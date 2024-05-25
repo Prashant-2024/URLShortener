@@ -1,7 +1,6 @@
-// components/Navbar.tsx
-"use client"; // Added
+"use client";
 import Image from "next/image";
-import ThemeToggle from "./ThemeToggle"; // Added
+import ThemeToggle from "./ThemeToggle";
 
 const Navbar = () => {
   return (

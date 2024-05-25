@@ -1,4 +1,3 @@
-// pages/index.js or pages/home.js
 "use client";
 import { CopyButtonIcon } from "@/icons/CopyButtonIcon";
 import GmailIcon from "../icons/GmailIcon";
